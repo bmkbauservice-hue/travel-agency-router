@@ -56,37 +56,37 @@ Komponente
 
 Aufgabe
 
-/
+
 
 Home
 
 Startseite
 
-/about
+about
 
 About
 
 Informationen über das Reisebüro
 
-/contact
+contact
 
 Contact
 
 Kontaktseite
 
-/destinations
+destinations
 
 Destinations
 
 Übersicht aller Reiseziele
 
-/destinations/:slug
+destinations/:slug
 
 SingleDest
 
 dynamische Detailseite
 
-*
+
 
 NotFound
 
